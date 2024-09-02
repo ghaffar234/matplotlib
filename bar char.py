@@ -1,3 +1,4 @@
+#this code make for bar chart
 import matplotlib.pyplot as plt
 x=["pyhton","java","c++","C#"]
 y=[20,80,30,40]
